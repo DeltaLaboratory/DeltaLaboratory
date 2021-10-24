@@ -1,5 +1,5 @@
 <p align="center">
-<img src=".DeltaLaboratory.svg" width="100px">
+<img src="DeltaLaboratory.svg" width="100px">
 </p>
 <h1 align="center">Delta Laboratory</h1>
 <p align="center">Develop Some Strange Things</p>
